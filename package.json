@@ -23,12 +23,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/j5pu/url256.git"
+    "url": "git+https://github.com/j5pu/shaurl.git"
   },
   "bugs": {
-    "url": "https://github.com/j5pu/url256/issues"
+    "url": "https://github.com/j5pu/shaurl/issues"
   },
-  "homepage": "https://github.com/j5pu/url256#readme",
+  "homepage": "https://github.com/j5pu/shaurl#readme",
   "devDependencies": {
     "@babel/core": "^7.16.7",
     "@babel/preset-env": "^7.16.8",

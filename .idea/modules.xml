@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/url256.iml" filepath="$PROJECT_DIR$/.idea/url256.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/shaurl.iml" filepath="$PROJECT_DIR$/.idea/shaurl.iml" />
     </modules>
   </component>
 </project>

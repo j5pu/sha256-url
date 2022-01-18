@@ -11,6 +11,7 @@ test:
 
 publish:
 	@npm run publish
+	@npm run clean
 
 # https://medium.com/geekculture/building-a-node-js-cli-with-typescript-packaged-and-distributed-via-homebrew-15ba2fadcb81
 init:
@@ -22,7 +23,3 @@ init:
 	@touch src/cli.ts
 	@npx tsc
 	@ls build
-	@npm i yargs --save
-	@npm i @types/yargs -D --save
-	@mkdir src/commands
-	@touch src/commands/greet.ts

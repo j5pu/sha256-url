@@ -7,7 +7,7 @@ const {defaults} = require('jest-config');
 //     moduleFileExtensions: [...defaults.moduleFileExtensions, 'ts', 'tsx'],
 //     preset: "ts-jest",
 //     testEnvironment: 'node',
-//     testMatch: ['**/sha256.test.ts'],
+//     testMatch: ['**/test.ts'],
 //     testRunner: 'jest-circus/runner',
 //     // transform: {
 //     //   '^.+\\.ts$': 'ts-jest'
@@ -25,7 +25,7 @@ export default async (): Promise<Config.InitialOptions> => {
     moduleFileExtensions: [...defaults.moduleFileExtensions, 'ts', 'tsx'],
     preset: "ts-jest",
     testEnvironment: 'node',
-    testMatch: ['**/*.test.ts'],
+    testMatch: ['**/*test.ts'],
     testRunner: 'jest-circus/runner',
     transform: {
       '^.+\\.ts$': 'ts-jest'
