@@ -18,7 +18,7 @@
   "scripts": {
     "build": "npm run clean && tsc",
     "clean": "rm -rf dist",
-    "publish": ". ../secrets/secrets.sh && npm run test && git all && echo '//registry.npmjs.org/:_authToken=$NPM_TOKEN' > $HOME/.npmrc && npm login && npm publish",
+    "publish": ". ../secrets/secrets.sh && npm run test && git all && echo '//registry.npmjs.org/:_authToken=$NPM_TOKEN' > $HOME/.npmrc && echo 'email = $NPM_EMAIL>> ~/.npmrc' && npm adduser && npm publish",
     "test": "npm run build; jest"
   },
   "repository": {
