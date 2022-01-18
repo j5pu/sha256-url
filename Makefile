@@ -1,3 +1,4 @@
+# shellcheck disable=SC1091
 .PHONY: init
 
 build:
@@ -9,8 +10,9 @@ clean:
 test:
 	@npm run -s test
 
-publish:
-	@npm run publish
+publish: test
+	@git all
+	@. ../secrets/secrets.sh && echo '//registry.npmjs.org/:_authToken=${NPM_TOKEN}' > ~/.npmrc
 	@npm run clean
 
 # https://medium.com/geekculture/building-a-node-js-cli-with-typescript-packaged-and-distributed-via-homebrew-15ba2fadcb81
