@@ -1,4 +1,4 @@
-import {sha256} from "../";
+import {sha256} from "../src";
 import { execSync } from 'child_process';
 
 const url = "https://github.com/j5pu/actions/archive/refs/tags/0.1.0.tar.gz"
