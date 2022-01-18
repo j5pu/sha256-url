@@ -42,7 +42,7 @@ node_modules
 /out/
 
 # production
-/build
+/dist
 
 # misc
 .DS_Store

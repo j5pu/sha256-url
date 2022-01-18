@@ -1,0 +1,11 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="cli.js --help" type="BashProRunConfiguration">
+    <option name="defaultInterpreter" value="none" />
+    <option name="interpreterParameters" value="node" />
+    <option name="interpreterPath" value="/usr/bin/env" />
+    <option name="scriptParameters" value="--help" />
+    <option name="scriptPath" value="$PROJECT_DIR$/dist/cli.js" />
+    <option name="workingDirectory" value="$PROJECT_DIR$/dist" />
+    <method v="2" />
+  </configuration>
+</component>
