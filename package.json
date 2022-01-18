@@ -1,6 +1,6 @@
 {
   "name": "shaurl",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "generate sha256 for url",
   "author": "José",
   "keywords": [
@@ -18,7 +18,6 @@
   "scripts": {
     "build": "npm run clean && tsc",
     "clean": "rm -rf dist",
-    "publish": ". ~/secrets/secrets.sh && npm run test && git all && echo \"//registry.npmjs.org/:_authToken=${NPM_TOKEN}\" > ~/.npmrc && npm publish",
     "test": "npm run build; jest"
   },
   "repository": {
