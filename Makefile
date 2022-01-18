@@ -12,7 +12,7 @@ test:
 
 publish: test
 	@git all
-	@. ../secrets/secrets.sh && echo "//registry.npmjs.org/:_authToken=$${NPM_TOKEN}" > ~/.npmrc
+	@. ../secrets/secrets.sh && echo "//registry.npmjs.org/:_authToken=$${NPM_TOKEN}" > ~/.npmrc && npm publish
 	@npm run clean
 
 # https://medium.com/geekculture/building-a-node-js-cli-with-typescript-packaged-and-distributed-via-homebrew-15ba2fadcb81
