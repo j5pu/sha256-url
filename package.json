@@ -18,7 +18,7 @@
   "scripts": {
     "build": "npm run clean && tsc",
     "clean": "rm -rf dist",
-    "publish": "../secrets/secrets.sh && npm run test && git all && npm adduser && npm publish",
+    "publish": "../secrets/secrets.sh && npm run test && git all && npm adduser --scope=j5pu && npm publish",
     "test": "npm run build; jest"
   },
   "repository": {
