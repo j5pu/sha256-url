@@ -1,7 +1,7 @@
 {
   "name": "shaurl",
-  "version": "1.0.2",
-  "description": "generate sha256 for url",
+  "version": "1.0.3",
+  "description": "Generate sha256 for url",
   "author": "José",
   "keywords": [
     "sha",
