@@ -12,6 +12,6 @@ test('shaurl: script', async () => {
   const dir = 'tmp="$(mktemp -d)"; shaurl="${PWD}"; cd "${tmp}"'
   const npm = 'npm init -y >/dev/null; npm install --quiet "${shaurl}" >/dev/null'
   const value = execSync(
-      `${dir}; ${npm}; ./node_modules/.bin/sha256 ${url}`, { encoding: 'utf-8' });
+      `${dir}; ${npm}; ./node_modules/.bin/shaurl ${url}`, { encoding: 'utf-8' });
   expect(value.trim()).toBe(sha.trim());
   });

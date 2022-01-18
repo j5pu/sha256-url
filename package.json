@@ -10,7 +10,7 @@
   "license": "MIT",
   "main": "dist/index.js",
   "bin": {
-    "sha256": "./dist/cli.js"
+    "shaurl": "./dist/cli.js"
   },
   "files": [
     "dist"

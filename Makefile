@@ -1,6 +1,6 @@
 # shellcheck disable=SC1091
 .PHONY: init
-
+# TODO: añadir el public o private, borrar versiones y lo mismo que pypi npm unpublish [<@scope>/]<pkg>@<version>
 build:
 	@npm run build
 
