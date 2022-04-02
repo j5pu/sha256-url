@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e3202a49-51ea-441d-9fee-429213f7f2d5" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Shell .sh" />
+        <option value="BashSupport Pro POSIX" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="4" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="vihof9n9" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="23qJCMHJ2z2RdVVVpODNWxpdakC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="add_unversioned_files" value="$PROJECT_DIR$/dist/cli.js&#10;/Users/jose/url256/dist/index.js&#10;/Users/jose/url256/node_modules/@types/jest/index.d.ts" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/node_modules/jest" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="testing.instrumented.configuration" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/backup" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Makefile Target.publish">
+    <configuration name="npmrc.sh" type="BashProRunConfiguration" temporary="true">
+      <option name="scriptPath" value="$PROJECT_DIR$/npmrc.sh" />
+      <method v="2" />
+    </configuration>
+    <configuration name="build" type="MAKEFILE_TARGET_RUN_CONFIGURATION" factoryName="Makefile" temporary="true">
+      <makefile filename="$PROJECT_DIR$/Makefile" target="build" workingDirectory="" arguments="">
+        <envs />
+      </makefile>
+      <method v="2" />
+    </configuration>
+    <configuration name="clean" type="MAKEFILE_TARGET_RUN_CONFIGURATION" factoryName="Makefile" temporary="true">
+      <makefile filename="$PROJECT_DIR$/Makefile" target="clean" workingDirectory="" arguments="">
+        <envs />
+      </makefile>
+      <method v="2" />
+    </configuration>
+    <configuration name="publish" type="MAKEFILE_TARGET_RUN_CONFIGURATION" factoryName="Makefile" temporary="true">
+      <makefile filename="$PROJECT_DIR$/Makefile" target="publish" workingDirectory="" arguments="">
+        <envs />
+      </makefile>
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="MAKEFILE_TARGET_RUN_CONFIGURATION" factoryName="Makefile" temporary="true">
+      <makefile filename="$PROJECT_DIR$/Makefile" target="test" workingDirectory="" arguments="">
+        <envs />
+      </makefile>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="BashSupport Pro.cli.js" />
+      <item itemvalue="BashSupport Pro.cli.js --help" />
+      <item itemvalue="BashSupport Pro.cli.js --version" />
+      <item itemvalue="BashSupport Pro.cli.js https://github.com/j5pu/actions/archive/refs/tags/0.1.0.tar.gz" />
+      <item itemvalue="BashSupport Pro.test.sh" />
+      <item itemvalue="BashSupport Pro.npmrc.sh" />
+      <item itemvalue="Jest.sha256" />
+      <item itemvalue="Makefile Target.build" />
+      <item itemvalue="Makefile Target.test" />
+      <item itemvalue="Makefile Target.clean" />
+      <item itemvalue="Makefile Target.publish" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Makefile Target.publish" />
+        <item itemvalue="Makefile Target.test" />
+        <item itemvalue="Makefile Target.build" />
+        <item itemvalue="BashSupport Pro.npmrc.sh" />
+        <item itemvalue="Makefile Target.clean" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e3202a49-51ea-441d-9fee-429213f7f2d5" name="Changes" comment="" />
+      <created>1642455560124</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1642455560124</updated>
+      <workItem from="1642455565472" duration="1481000" />
+      <workItem from="1642457073849" duration="153000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="auto" />
+    <option name="LAST_COMMIT_MESSAGE" value="auto" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="ch.raffael.plugins.idea.runpopup.RunConfigurationUseTracker">
+    <option name="runConfInfo">
+      <map>
+        <entry key="BashSupport Pro.cli.js">
+          <value>
+            <RunConfInfo>
+              <option name="confId" value="BashSupport Pro.cli.js" />
+              <option name="executorId" value="Run" />
+              <option name="timestamp" value="1642481805844" />
+            </RunConfInfo>
+          </value>
+        </entry>
+        <entry key="BashSupport Pro.cli.js --help">
+          <value>
+            <RunConfInfo>
+              <option name="confId" value="BashSupport Pro.cli.js --help" />
+              <option name="executorId" value="Run" />
+              <option name="timestamp" value="1642481847240" />
+            </RunConfInfo>
+          </value>
+        </entry>
+        <entry key="BashSupport Pro.cli.js --version">
+          <value>
+            <RunConfInfo>
+              <option name="confId" value="BashSupport Pro.cli.js --version" />
+              <option name="executorId" value="Run" />
+              <option name="timestamp" value="1642481890227" />
+            </RunConfInfo>
+          </value>
+        </entry>
+        <entry key="BashSupport Pro.cli.js https://github.com/j5pu/actions/archive/refs/tags/0.1.0.tar.gz">
+          <value>
+            <RunConfInfo>
+              <option name="confId" value="BashSupport Pro.cli.js https://github.com/j5pu/actions/archive/refs/tags/0.1.0.tar.gz" />
+              <option name="executorId" value="Run" />
+              <option name="timestamp" value="1642481771901" />
+            </RunConfInfo>
+          </value>
+        </entry>
+        <entry key="BashSupport Pro.npmrc.sh">
+          <value>
+            <RunConfInfo>
+              <option name="confId" value="BashSupport Pro.npmrc.sh" />
+              <option name="executorId" value="Run" />
+              <option name="timestamp" value="1642494861704" />
+            </RunConfInfo>
+          </value>
+        </entry>
+        <entry key="BashSupport Pro.test.sh">
+          <value>
+            <RunConfInfo>
+              <option name="confId" value="BashSupport Pro.test.sh" />
+              <option name="executorId" value="Run" />
+              <option name="timestamp" value="1642478359912" />
+            </RunConfInfo>
+          </value>
+        </entry>
+        <entry key="Jest.sha256">
+          <value>
+            <RunConfInfo>
+              <option name="confId" value="Jest.sha256" />
+              <option name="executorId" value="Run" />
+              <option name="timestamp" value="1642488052619" />
+            </RunConfInfo>
+          </value>
+        </entry>
+        <entry key="Makefile Target.build">
+          <value>
+            <RunConfInfo>
+              <option name="confId" value="Makefile Target.build" />
+              <option name="executorId" value="Run" />
+              <option name="timestamp" value="1642501888653" />
+            </RunConfInfo>
+          </value>
+        </entry>
+        <entry key="Makefile Target.clean">
+          <value>
+            <RunConfInfo>
+              <option name="confId" value="Makefile Target.clean" />
+              <option name="executorId" value="Run" />
+              <option name="timestamp" value="1642491042202" />
+            </RunConfInfo>
+          </value>
+        </entry>
+        <entry key="Makefile Target.publish">
+          <value>
+            <RunConfInfo>
+              <option name="confId" value="Makefile Target.publish" />
+              <option name="executorId" value="Run" />
+              <option name="timestamp" value="1642505285936" />
+            </RunConfInfo>
+          </value>
+        </entry>
+        <entry key="Makefile Target.test">
+          <value>
+            <RunConfInfo>
+              <option name="confId" value="Makefile Target.test" />
+              <option name="executorId" value="Run" />
+              <option name="timestamp" value="1642503899453" />
+            </RunConfInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
